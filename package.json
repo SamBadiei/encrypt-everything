@@ -1,0 +1,25 @@
+{
+  "name": "encrypt-everything",
+  "version": "1.0.5",
+  "description": "Encrypt everything like JSON, Strings, Numbers, Objects,...",
+  "main": "TheSecret.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "encrypt",
+    "safe",
+    "secure",
+    "security",
+    "decrypt",
+    "password",
+    "string",
+    "object",
+    "numbers",
+    "json"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
