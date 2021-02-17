@@ -1,7 +1,7 @@
 # Welcome to encrypt-everything 👋
 
 [![Version](https://img.shields.io/npm/v/encrypt-everything.svg)](https://www.npmjs.com/package/encrypt-everything)
-[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/justholdmybeer/encrypt-everything/blob/main/LICENSE)
 
 > Encrypt everything like JSON, Strings, Numbers, Objects,...
 
