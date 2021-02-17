@@ -1,6 +1,6 @@
 {
   "name": "encrypt-everything",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Encrypt everything like JSON, Strings, Numbers, Objects,...",
   "main": "TheSecret.js",
   "scripts": {
@@ -20,6 +20,10 @@
     "json"
   ],
   "author": "",
-  "license": "ISC",
-  "dependencies": {}
+  "license": "MIT",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/justholdmybeer/encrypt-everything/issues"
+  },
+  "homepage": "https://github.com/justholdmybeer/encrypt-everything#readme"
 }
